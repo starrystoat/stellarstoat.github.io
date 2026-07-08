@@ -1,0 +1,8 @@
+title: The Stellar Stoat
+description: Portfolio site
+
+baseurl: ""
+url: "https://trenthian.github.io"
+
+sass:
+  style: compressed
